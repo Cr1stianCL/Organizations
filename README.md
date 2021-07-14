@@ -9,3 +9,4 @@ https://github.com/Cr1stianCL-MS-SqlServer
 https://github.com/Cr1stianCL-ReactJS 
 https://github.com/Cr1stianCL-SqlServer 
 https://github.com/Cr1stianCL-Static-Html
+https://github.com/Cr1stianCL-Nx
